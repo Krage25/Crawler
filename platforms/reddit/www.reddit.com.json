@@ -1,0 +1,91 @@
+[
+  {
+    "domain": ".reddit.com",
+    "expirationDate": 1747025624.080904,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "edgebucket",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "uk2tfR2RHtDij6lSA9"
+  },
+  {
+    "domain": ".reddit.com",
+    "expirationDate": 1747025624.79431,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "csv",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "2"
+  },
+  {
+    "domain": ".reddit.com",
+    "expirationDate": 1748406571.754683,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "loid",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "000000001dyfi492s8.2.1732854570247.Z0FBQUFBQm5TVU1yMHEtMjQzTTM5S2ROa2xxM0V1QzV4VXJ5NFk1bVlvVnhOY0UxWU4taW9WLXBTQmhGU0g1a3NkQWkzM3FzWVJ1Y1hMWHpjU005bUNfUVJ0d2hBTHk4NjBQT05kR25QRGN4TkxSREZOb1RLWkppU0ViTlVDUjkwcDdldG1sOVZrams"
+  },
+  {
+    "domain": ".reddit.com",
+    "expirationDate": 1758358129.587577,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "reddit_session",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IlNIQTI1NjpsVFdYNlFVUEloWktaRG1rR0pVd1gvdWNFK01BSjBYRE12RU1kNzVxTXQ4IiwidHlwIjoiSldUIn0.eyJzdWIiOiJ0Ml8xZHlmaTQ5MnM4IiwiZXhwIjoxNzU4NDQ0NTI5LjQ0ODYzMSwiaWF0IjoxNzQyODA2MTI5LjQ0ODYzMSwianRpIjoicGJLbU1ldy1Nc2s4VkZvOFRfUndmMWMtRmpzbm53IiwiY2lkIjoiY29va2llIiwibGNhIjoxNzMyODU0NTcwMjQ3LCJzY3AiOiJlSnlLamdVRUFBRF9fd0VWQUxrIiwidjEiOiIxNDA5MzI1MTQzMTI3OTIlMkMyMDI0LTExLTI5VDA0JTNBMjklM0EzMSUyQzRjZTBiODliZmRhNGFhOTc1OTMzZDI4OWQ3YmZiODNlMjljODQ0YmUiLCJmbG8iOjF9.LIzuJUP5UPROuYvej_K8JZ9CUqlECrYAjoY8UaMry8VvP5Xt3NNuw19KM_DRaEG8mQknu4tjmbiIs_FFoSo1PWmpHrEQd8Fmu0ruF7g1G8b8o5NLFLsytY7S7--qr5kWo9683bdqXTdbMDCyYKLuxOVkYdRJxdkmpPAYD3g40CvmSrd5Iihl4cpF-OTCtcVoIAMLsRIt0sBnixduoh8K8nnIvlFAox2oxUAhMOXPjfyKNrxTAADaenBoe3GFi71NiHf4vJhGb8yBfWYBNhVbotIrQqqiILKSwDRJvTsYxK7OniQckIN9m4WCW7zMPwEOLo5BGd1WKRRPfrxPm2d6wQ"
+  },
+  {
+    "domain": ".reddit.com",
+    "expirationDate": 1743052332.208762,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "token_v2",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6IlNIQTI1NjpzS3dsMnlsV0VtMjVmcXhwTU40cWY4MXE2OWFFdWFyMnpLMUdhVGxjdWNZIiwidHlwIjoiSldUIn0.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNzQzMDUyMzMyLjg4NzI1NSwiaWF0IjoxNzQyOTY1OTMyLjg4NzI1NSwianRpIjoiRmFRRGJaa1p4aml2Q0ExcUwwSXVDbm9OLXdfMDRnIiwiY2lkIjoiMFItV0FNaHVvby1NeVEiLCJsaWQiOiJ0Ml8xZHlmaTQ5MnM4IiwiYWlkIjoidDJfMWR5Zmk0OTJzOCIsImxjYSI6MTczMjg1NDU3MDI0Nywic2NwIjoiZUp4a2tkR090REFJaGQtRmE1X2dmNVVfbTAxdGNZYXNMUWFvazNuN0RWb2NrNzA3Y0Q0cEhQOURLb3FGRENaWGdxbkFCRmdUclREQlJ1VDluTG0zZzJpTmU4dFlzWm5DQkZtd0ZEcmttTEdzaVFRbWVKSWF5eHNtb0lMTnlGeXV0R05OTFQwUUpxaGNNcmVGSHBjMm9ia2JpNTZkR0ZXNXJEeW9zVmZsMHRqR0ZMWW54amNicXcycHVDNm5Na25MUXZrc1h2VGpOOVczOXZtel9TYTBKOE9LcXVtQjNobEpDRzRzZnBpbTNkOVRrNTZ0Q3hhMTkzcVEydWQ2M0s1OTFpdzBPN2VmNl9sckl4bVhZMmgtSnZ0MzF5LWhBNDg4THpQcUFFYXM0VWNaZG1RZF9sVUhVTG1nSkdNSjR0TUk1TXJsMjM4SnRtdlR2OGJ0RXo5OE0tS21OX3pXRE5SekNlTFFwX0gxR3dBQV9fOFExZVRSIiwicmNpZCI6IlItTHlFWEQta3c5SS12ZmIzdThJVUpVY2pJUFdIS2FmUEx4MFo3OEt5MzQiLCJmbG8iOjJ9.TQc9FwAVW28-jJ7-zz0BWFW5c1ujlDVFbHljeN1kOsOsnhroTkPKhzUsgPbot8m0MYSRoAfYe5aYcDshEBbDCrPBm_fW5risT4RUzxWvnzIEIDPC0nxBnfbox3bJw8D4qPTP5576iOC_iMbE9SR8eQgA2c19uSJGpD-dsKzRvZ0ZCR4RDgqxyTe42ShsBTWVYjMSSsfRKNhblaGT93xtf6yjfIRCKDqUhx9z0ukQCMIZ9y7gqhJc_TgV8-PGZjAO3_8bcUPdqsgPaDqu8tEbeXra1S6coZZFAnEbCpqd9GhMCJ3ZWfYeQx6xsxReIjFFpaPUHafGmTRXNwp_eJhDPw"
+  },
+  {
+    "domain": ".reddit.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "csrf_token",
+    "path": "/",
+    "sameSite": "strict",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "820435eef70ecd4e5061206614d9e109"
+  },
+  {
+    "domain": ".reddit.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "session_tracker",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": true,
+    "storeId": "0",
+    "value": "plfehngkoadchciddq.0.1742965954635.Z0FBQUFBQm40NHpDYWRPR2ptQ0gyM0tCNTkyWDFnaDF1dlcteU1fN0p2Qmx5QTRPY1NZaE5La3poOGtUVGd6cTBsRXp0MEpTalo3TFRFeTdyMHBtVmNKT05xWTZidjF6V1RmTlRRSVlLQ05mNlBSd3h3MG1peHQ3UEhqT25yeVljb0FSM0x2UnVvQXY"
+  }
+]
