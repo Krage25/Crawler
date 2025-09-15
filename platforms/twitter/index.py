@@ -204,26 +204,26 @@ def profile_search(driver, url, sessionId, keyUsed, dataCount,username_,account)
                 except Exception:
                     datePublished = None
                 
-                # Language Detection
-                try:
-                    languageDetected = languageDetection(content)
-                except:
-                    pass
-                # languageDetected = LangDetectComplete(content)
+                # # Language Detection
+                # try:
+                #     languageDetected = languageDetection(content)
+                # except:
+                #     pass
+                # # languageDetected = LangDetectComplete(content)
                 
-                translated_data = content
-                try:
-                    translated_data = languageTranslator(content)
+                # translated_data = content
+                # try:
+                #     translated_data = languageTranslator(content)
                     
-                except:
-                    translated_data = content
+                # except:
+                #     translated_data = content
 
                 data.append({
                     "link": source_link,
                     "content": content,
                     "datetime": datePublished.strftime("%Y-%m-%d %H:%M:%S"),
                     "retweets": retweets,
-                    "languages": languageDetected,
+                    # "languages": languageDetected,
                     "likes": likes,
                     "retweets": retweets,
                     "replies": replies,
@@ -232,14 +232,14 @@ def profile_search(driver, url, sessionId, keyUsed, dataCount,username_,account)
                     "keyword": keyUsed,
                     "postOwner": postOwner,
                     "useHandle": username,
-                    "translation": translated_data,
+                    # "translation": translated_data,
                     "mediaPresent": langauge,
                     "metadata": content,
                     "crawlTime": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
                     "status":1,
                     "screenshotUrl":langauge,
                     "user":username_,
-                    "text":translated_data
+                    # "text":translated_data
                     # "text" : translated_data
                 })
                 results.append({"link": source_link})
