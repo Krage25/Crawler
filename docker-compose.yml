@@ -1,13 +1,12 @@
-version: "3.9"
-
 services:
   crawler-server:
-    build:
-      context: .
-      dockerfile: Dockerfile
+    image: crawler-base:py3.12
     container_name: crawler-server
     restart: always
     ports:
       - "9090:9090"
     environment:
       - PYTHONUNBUFFERED=1
+    volumes:
+      - .:/app
+    command: ["python", "app.py"]
