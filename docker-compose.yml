@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  crawler-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: crawler-server
+    restart: always
+    ports:
+      - "9090:9090"
+    environment:
+      - PYTHONUNBUFFERED=1
